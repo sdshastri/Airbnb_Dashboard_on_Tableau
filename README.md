@@ -16,21 +16,37 @@ Variables Description
 The variables of Airbnb business are as follows:
 
 id: A unique identifier for each listing.
+
 name: The name of the listing.
+
 host_id: A unique identifier for the host of the listing.
+
 host_name: The name of the host of the listing.
+
 neighbourhood_group: The neighbourhood group that the listing is in.
+
 neighbourhood: The neighbourhood that the listing is in.
+
 latitude: The latitude of the listing.
+
 longitude: The longitude of the listing.
+
 room_type: The type of room that is being listed.
+
 price: The price per night for the listing.
+
 minimum_nights: The minimum number of nights that a guest can book for the listing.
+
 number_of_reviews: The number of reviews that the listing has received.
+
 last_review: The date of the last review that the listing received.
+
 reviews_per_month: The number of reviews that the listing receives per month on average.
+
 calculated_host_listings_count: The number of listings that the host has on Airbnb.
+
 availability_365: The number of days that the listing is available for booking in a year.
+
 ## Conclusion
 Customer prefer Entire Home or Private room for statying, they avoid to book shared room.
 
